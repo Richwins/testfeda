@@ -1,7 +1,6 @@
 <script setup>
 
 import ButtonComponent from '../ButtonComponent.vue';
-
 defineProps({
     menu_list: {
         type: String,

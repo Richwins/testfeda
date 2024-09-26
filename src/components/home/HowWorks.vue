@@ -26,12 +26,12 @@ defineProps({
              <template #session-body>
               <div class="row">
                         <div class="col-lg-4">
-                            <HowComponent title="Easy To Order " description="You only order through the app" img="/img/courier 1.svg"></HowComponent>
+                            <HowComponent title="Easy To Order " description="You only order through the app" img="/img/order 1.svg"></HowComponent>
                       
 
                         </div>
                         <div class="col-lg-4">
-       <HowComponent title="Fastest Delivery " description="Delivery will be on time" img="/img/courier 1.svg"></HowComponent>
+       <HowComponent title="Fastest Delivery " description="Delivery will be on time" img="/img/delivery 1.svg"></HowComponent>
 
                         </div>
                         <div class="col-lg-4">

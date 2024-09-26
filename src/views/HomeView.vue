@@ -9,6 +9,8 @@ import HowWorks from '@/components/home/HowWorks.vue';
     <NavBar />
     <HeroComponent />
     <HowWorks />
+        <HowWorks />
+
 
   </main>
 </template>
